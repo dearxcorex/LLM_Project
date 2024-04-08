@@ -1,3 +1,7 @@
 .vscode
 /env
-/text_data
+/doc_data
+/output
+*.json
+
+
