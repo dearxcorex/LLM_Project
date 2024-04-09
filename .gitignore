@@ -3,5 +3,6 @@
 /doc_data
 /output
 *.json
+*.csv
 
 
